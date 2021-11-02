@@ -233,15 +233,11 @@ If you have questions or need help integrating the product please [contact us](h
 
 ##### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: <https://twitter.com/Ashutos56695774?s=09>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: <https://www.facebook.com/ashutosh.mohanty.58958>
 
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
+Instagram: <https://www.instagram.com/ashutosh_mohanty_99_not_out/>
 
 [CHANGELOG]: ./CHANGELOG.md
 
